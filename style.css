@@ -19,7 +19,7 @@ html, body {
 }
 
 p {
-	line-height: 1.4em;
+	line-height: 1.8em;
 	color: #444;
 }
 
@@ -94,7 +94,7 @@ section:last-child {
 
 .sectionContent {
 	padding: 20px;
-	background-color: #c1ced6;
+	background-color: #DCE6EA;
 }
 
 .sectionTitle h1 {
